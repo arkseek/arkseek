@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a front end developer from egypt! I live in america currently.<br>I am a beginner so I am still learning NodeJS but with the side I will learn HTML and CSS!<br>I follow the rule named as "one commit a day" policy! thanks to bigboxSWE for showing it! It basically means that I do atleast 1 commit to a repository per day no matter how small or how big! i am looking forward to sharing my journey with you all :)</p>
+<p align="left">I am a front end developer from egypt! I live in america currently.<br>I am a beginner so I am still learning HTML, CSS, and Javascript.</p>
 
 ###
 
