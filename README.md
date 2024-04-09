@@ -2,22 +2,7 @@
 
 ###
 
-<p align="left">I am a front end developer from egypt! I live in america currently.<br>I am a beginner so I am still learning HTML, CSS, and Javascript.</p>
-
-###
-
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+<p align="left">I am a front end developer from egypt! I live in america currently.<br>I am currently learning astro.js!</p>
 
 ###
 
