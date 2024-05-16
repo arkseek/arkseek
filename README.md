@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a front end developer from egypt! I live in america currently.<br>I am a fullstack developer, yet to become one of the greats 🧑‍🍳</p>
+<p align="left">I am from egypt! I live in america currently.<br>I am a fullstack developer, yet to become one of the greats 🧑‍🍳 <br> Working on compages</p>
 
 ###
 
